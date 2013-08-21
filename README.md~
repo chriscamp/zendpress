@@ -9,7 +9,7 @@ ZendPress is a CMS to create websites and applications. ZendPress uses the Zend 
 Installation
 ------------
 
-Using Composer
+Using Composer (recommended)
 ----------------------------
 The recommended way to get a working copy of this project is to clone the repository
 and use `composer` to install dependencies using the `create-project` command:
